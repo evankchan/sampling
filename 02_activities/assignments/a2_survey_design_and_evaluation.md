@@ -61,7 +61,7 @@ Your 5-10 question survey:
 6. On a Sliding Scale of 0 to 100, how fast do you like your music? 
 7. Do you tend to listen to music in the morning, afternoon, or evenings? 
 8. What is your musical training level? (Musical Training Answers Options: Never taken lessons, taken lessons, completed diploma, University music graduate)
-9. write your question here... (optional)
+9. write your question here...
 10. write your question here...
 ```
 
